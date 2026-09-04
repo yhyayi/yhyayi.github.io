@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/), majoring in Computer Science and Technology. I am a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/), advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I received my bachelor's degree with honors from [Tsinghua University](https://www.tsinghua.edu.cn/) in June 2025. My research interests lie in natural language processing, with a focus on agentic reinforcement learning and self-evolving language models.
+Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/), majoring in Computer Science and Technology. I am a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/), advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I received my bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/) in June 2025. My research interests lie in natural language processing, with a focus on agentic reinforcement learning and self-evolving language models.
 <!-- <a href='https://scholar.google.com/citations?user=mb36VikAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dmb36VikAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -29,17 +29,17 @@ Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua
 
 # 📝 Publications 
 
-<!-- (* denotes equal/core contribution, <sup>†</sup> denotes project lead, <sup>‡</sup> indicates corresponding author.) -->
+(* denotes equal/core contribution, <sup>†</sup> denotes project lead, <sup>‡</sup> indicates corresponding author.)
 
 - [StudyBench: Can Self-Evolution Squeeze Textbooks for Olympiad Capability?](https://arxiv.org/abs/2609.00787)<br>
-  **Yinghao Chen\***, Zixi Chen\*, Bingxiang He1∗<sup>‡</sup>, Ziqing Qiao, Huan-ang Gao, Yinuo Xu, Yuxin Zuo, Zeyuan Liu, Yuhao Zhan, Chaojun Xiao1<sup>‡</sup><br>
+  **Yinghao Chen\***, Zixi Chen\*, Bingxiang He∗<sup>‡</sup>, Ziqing Qiao, Huan-ang Gao, Yinuo Xu, Yuxin Zuo, Zeyuan Liu, Yuhao Zhan, Chaojun Xiao<sup>‡</sup><br>
   *EMNLP 2026 Findings* [[GitHub]](https://github.com/thunlp/StudyBench)<br>
 
 # 📖 Educations
 - *2025.09 - 2030.06 (now)*, [Tsinghua University](https://www.tsinghua.edu.cn/)
   Ph.D. in Computer Science and Technology ([THUNLP](http://nlp.csai.tsinghua.edu.cn/))
 - *2021.09 - 2025.06*, [Tsinghua University](https://www.tsinghua.edu.cn/)
-  B.S. in Computer Science and Technology with honors
+  B.S. in Computer Science and Technology
 
 # 🎖 Honors and Awards
 * Second Prize, Compiler Implementation Track, National College System Capabilities Contest (NSCC), *2024.8*
